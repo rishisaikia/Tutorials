@@ -1,5 +1,3 @@
-# Tutorials
-
-### Different tutorials on Python
+### Tutorials
 
 #### 1. Pandas 101
